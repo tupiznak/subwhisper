@@ -5,7 +5,7 @@ description = ""
 authors = ["tupiznak <akej-vonavi@mail.ru>"]
 readme = "README.md"
 packages = [
-    { include = "src" },
+    { include = "subwhisper" },
 ]
 
 
